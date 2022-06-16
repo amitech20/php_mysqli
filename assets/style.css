@@ -1,0 +1,24 @@
+/*set the form to center*/
+form{
+    max-width: 500px;
+    padding: 10px 20px;
+    background: #f4f7f8;
+    margin: 10px auto;
+    padding: 20px;
+    background: #f4f7f8;
+    border-radius: 8px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.form-group{
+    margin: 2%;
+}
+h1{
+    text-align: center;
+}
+nav{
+    background-color: antiquewhite;
+}
+li{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
